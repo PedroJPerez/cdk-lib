@@ -25,6 +25,6 @@
     "source-map-support": "^0.5.16"
   },
   "publishConfig": {
-    "@PedroJPerez:registry": "https://npm.pkg.github.com"
+    "pedrojPerez:registry": "https://npm.pkg.github.com"
   }
 }
