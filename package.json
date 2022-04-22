@@ -23,8 +23,5 @@
     "aws-cdk-lib": "2.8.0",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.16"
-  },
-  "publishConfig": {
-    "pedrojPerez:registry": "https://npm.pkg.github.com"
   }
 }
